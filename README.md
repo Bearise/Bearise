@@ -1,11 +1,12 @@
-<h1 align="center">Beatriz Ríos 🌸</h1>
+![header](https://capsule-render.vercel.app/api?type=rounded&color=0:F5EDE4,100:C58C85&height=160&section=header&text=Beatriz%20Ríos%20Serrano&fontSize=26&fontColor=5A4A42)
+
 
 <p align="center">
-  Desarrolladora Web · DAW · Sevilla
+  Desarrolladora Web Junior · DAW · Sevilla
 </p>
 
 <p align="center">
-  Me interesa crear aplicaciones web funcionales, cuidadas visualmente y con una buena experiencia de usuario.
+  Me enfoco en desarrollar aplicaciones web funcionales, combinando lógica backend y una experiencia de usuario cuidada.
 </p>
 
 <p align="center">
