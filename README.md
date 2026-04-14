@@ -88,7 +88,7 @@ Aplicación web completa desarrollada desde cero.
 ### 📫 Contacto
 
 - LinkedIn: https://www.linkedin.com/in/beatrizriosserrano 
-- Email: opcional
+- Email: riosserranob@gmail.com
 
 ---
 
