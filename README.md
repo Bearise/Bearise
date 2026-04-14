@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=0:F3F7F4,100:BFD8C1&height=160&section=header&text=Beatriz%20Ríos%20Serrano&fontSize=26&fontColor=3F5E4F)
+![header](https://capsule-render.vercel.app/api?type=soft&color=0:2F2F2F,100:4A3F3F&height=160&section=header&text=Beatriz%20Ríos%20Serrano&fontSize=26&fontColor=F5EDE4)
 
 
 <p align="center">
