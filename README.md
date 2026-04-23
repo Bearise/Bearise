@@ -26,8 +26,8 @@
 ### 🛠️ Tecnologías
 
 #### 🧠 Backend
-![PHP](https://img.shields.io/badge/PHP-8.2-blue)
 ![Java](https://img.shields.io/badge/Java-Backend-red)
+![PHP](https://img.shields.io/badge/PHP-8.2-blue)
 
 #### 🎨 Frontend
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
