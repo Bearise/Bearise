@@ -15,13 +15,6 @@
 
 ---
 
-### 👩🏻‍💻 Sobre mí
-
-- Actualmente estoy desarrollando proyectos web completos con PHP y MySQL
-- Me gusta trabajar tanto la parte visual como la lógica de la aplicación
-- Estoy construyendo proyectos reales para seguir creciendo como desarrolladora
-
----
 
 ### 🛠️ Tecnologías
 
