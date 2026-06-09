@@ -72,7 +72,6 @@ Aplicación web completa desarrollada desde cero.
 ### 🔭 Actualmente aprendiendo
 
 - Arquitectura de aplicaciones web
-- Buenas prácticas en backend PHP
 - Desarrollo backend con Java
 - Spring Boot (APIs REST)
 
