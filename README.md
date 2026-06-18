@@ -45,6 +45,13 @@
 
 Aplicación web completa desarrollada desde cero.
 
+#### 📸 Vista previa
+
+<p align="center">
+  <img src="./assets/images/Screenshot.jpg" alt="Captura de Velvia" width="900">
+</p>
+
+
 **Incluye:**
 - catálogo dinámico por categorías
 - sistema de usuarios
