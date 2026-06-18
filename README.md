@@ -48,7 +48,7 @@ Aplicación web completa desarrollada desde cero.
 #### 📸 Vista previa
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Bearise/ProyectoIntermodular/master/assets/images/screenshot.jpg" alt="Captura de Velvia" width="900">
+  <img src="https://raw.github.com/Bearise/ProyectoIntermodular/master/assets/images/screenshot.jpg" alt="Captura de Velvia" width="900">
 </p>
 
 
