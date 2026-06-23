@@ -2,11 +2,11 @@
 
 
 <p align="center">
-  Desarrolladora Web Junior · Java · Backend · Full Stack · DAW · Sevilla
+  Junior Web Developer · Java · Backend · Full Stack · DAW · Sevilla
 </p>
 
 <p align="center">
-  Me enfoco en desarrollar aplicaciones web funcionales, combinando lógica backend y una experiencia de usuario cuidada.
+  Currently focused on Java and Spring Boot development, with an interest in exploring other areas of software engineering and full-stack development to further broaden my skills and experience.
 </p>
 
 <p align="center">
