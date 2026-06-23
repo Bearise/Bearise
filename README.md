@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  Desarrolladora Web Junior · DAW · Sevilla
+  Desarrolladora Web Junior · Java · Backend · Full Stack · DAW · Sevilla
 </p>
 
 <p align="center">
