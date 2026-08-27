@@ -5,54 +5,53 @@
 </p>
 
 <p align="center">
-  Técnica Superior en Desarrollo de Aplicaciones Web, actualmente especializada en desarrollo backend con Java y Spring Boot.
+  Web Application Development graduate, currently focused on backend development with Java and Spring Boot.
 </p>
 
 <p align="center">
-  Continúo ampliando mis conocimientos mediante proyectos prácticos con APIs REST, microservicios, Docker y bases de datos relacionales, sin perder de vista el desarrollo full stack.
+  I am continuously expanding my skills through hands-on projects involving REST APIs, microservices, Docker and relational databases, while maintaining an interest in full-stack development.
 </p>
 
 <p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxnZDEzenFlaTJzb2tjcmtlNDM4eXFhbTJseGQ3ZjJjb3l3ZDZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" alt="Desarrolladora trabajando">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxnZDEzenFlaTJzb2tjcmtlNDM4eXFhbTJseGQ3ZjJjb3l3ZDZpOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif" width="250" alt="Developer working">
 </p>
 
 ---
 
 ## 🛠️ Tecnologías
 
-### 🧠 Backend
+### Backend
 
-![Java](https://img.shields.io/badge/Java-Backend-red)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-Backend-6DB33F)
-![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-Persistence-6DB33F)
-![REST API](https://img.shields.io/badge/APIs-REST-009688)
-![PHP](https://img.shields.io/badge/PHP-8.2-777BB4)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Data JPA](https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=flat&logo=spring&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-009688?style=flat&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### 🎨 Frontend
+### Frontend
 
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-Markup-E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-Styles-1572B6)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Frontend-7952B3)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=222222)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 
-### 🗄️ Bases de datos
+### Bases de datos
 
-![MySQL](https://img.shields.io/badge/MySQL-Database-4479A1)
-![MariaDB](https://img.shields.io/badge/MariaDB-Database-003545)
-![SQL](https://img.shields.io/badge/SQL-Queries-336791)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white)
 
-### ⚙️ Herramientas y entorno
+### Herramientas
 
-![Maven](https://img.shields.io/badge/Maven-Build-C71A36)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032)
-![GitHub](https://img.shields.io/badge/GitHub-Repositories-181717)
-![VS Code](https://img.shields.io/badge/VS_Code-Editor-007ACC)
-![Eclipse](https://img.shields.io/badge/Eclipse-IDE-2C2255)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white)
 
 ---
 
-## 🚀 Proyectos destacados
+## 💻 Proyectos destacados
 
 ### 📋 Aplicación de gestión de tareas con microservicios
 
