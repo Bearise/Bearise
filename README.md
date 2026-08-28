@@ -70,7 +70,7 @@ Proyecto actualmente en desarrollo para practicar la construcción de una aplica
 
 > 🚧 Proyecto en construcción. El repositorio se irá actualizando a medida que avance su desarrollo.
 
-👉 Próximamente disponible en GitHub
+👉 [Ver proyecto en GitHub](https://github.com/Bearise/task-flow-microservices)
 
 ---
 
