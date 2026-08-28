@@ -117,12 +117,12 @@ Aplicación web completa desarrollada desde cero para gestionar el funcionamient
 ## 📊 Actividad en GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bearise&show_icons=true&theme=rose_pine&locale=es" height="160" alt="Estadísticas de GitHub">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bearise&theme=rose_pine&locale=es" height="160" alt="Racha de contribuciones">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Bearise&theme=rose_pine" height="160" alt="Estadísticas de GitHub">
+  <img src="https://streak-stats.demolab.com?user=Bearise&theme=rose_pine&locale=es" height="160" alt="Racha de contribuciones">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bearise&theme=rose_pine" alt="Gráfico de actividad en GitHub">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bearise&theme=rose_pine&hide_border=true" alt="Gráfico de actividad en GitHub">
 </p>
 
 ---
